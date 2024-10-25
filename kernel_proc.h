@@ -63,9 +63,6 @@ typedef struct process_control_block {
   rlnode ptcb_list;
   int thread_count;
 
-  int x;
-  int y;
-
 } PCB;
 
 
